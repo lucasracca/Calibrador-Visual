@@ -3,9 +3,9 @@ import requests
 import datetime
 import time
 import argparse
-#import pandas as pd
+import pandas as pd
 from configparser import ConfigParser
-#import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 
 #import numpy as np
 
